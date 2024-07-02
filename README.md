@@ -1,4 +1,4 @@
-### Description
+Description
 ===========
 
 For use with Ubuntu 20.04 and Nomp as stratum https://github.com/cbunting99/node-open-mining-portal
