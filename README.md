@@ -21,7 +21,7 @@ sudo apt-get dist-upgrade
 
 sudo apt-get install git
 
-sudo apt-get install build-essential libboost-all-dev libcurl4-openssl-dev libdb5.1-dev libdb5.1++-dev mysql-server
+sudo apt-get install build-essential libboost-all-dev libcurl4-openssl-dev libdb-dev libdb++-dev mysql-server
 
 sudo apt-get install memcached php-memcached php-mysqlnd php-curl php-json php-curl libapache2-mod-php
 
