@@ -40,7 +40,15 @@ cd mpos
 php composer.phar install (May need to run sudo php composer.phar install)
 
 sudo git checkout master
+```
 
+##(If you get connection issues below with mysql, try this then continue.) Replace password with a password.
+
+sudo mysql
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
+exit
+
+```
 mysql -u -p -e "create database mpos"
 
 mysql -u -p mpos < sql/000_base_structure.sql
