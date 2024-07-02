@@ -31,13 +31,13 @@ sudo apache2ctl -k stop; sleep 2; sudo apache2ctl -k start
 
 cd
 
-cd var/www
+cd /var/www
 
 sudo git clone https://github.com/cbunting99/php-mpos mpos
 
 cd mpos
 
-php composer.phar install
+php composer.phar install (May need to run sudo php composer.phar install)
 
 sudo git checkout master
 
