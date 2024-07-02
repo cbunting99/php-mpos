@@ -56,9 +56,9 @@ exit
 ### Then Continue:
 
 ```
-mysql -u -p -e "create database mpos"
+sudo mysql -p -e "create database mpos"
 
-mysql -u -p mpos < sql/000_base_structure.sql
+sudo mysql -p mpos < sql/000_base_structure.sql
 
 sudo chown -R www-data templates/compile templates/cache
 
