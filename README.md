@@ -82,3 +82,5 @@ make
 make install
 cd ..
 ```
+
+### You can find a lot of info here, https://github.com/MPOS/php-mpos/wiki/Config-Setup
