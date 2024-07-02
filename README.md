@@ -33,7 +33,7 @@ cd
 
 cd var/www
 
-sudo git clone git://github.com/MPOS/php-mpos.git mpos
+sudo git clone https://github.com/cbunting99/php-mpos mpos
 
 cd mpos
 
