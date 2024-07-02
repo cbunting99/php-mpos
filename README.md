@@ -45,9 +45,15 @@ sudo git checkout master
 ### (If you get connection issues below with mysql, try this then continue.) 
 Replace password with a password.
 
+```
 sudo mysql
+
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
+
 exit
+```
+
+### Then Continue:
 
 ```
 mysql -u -p -e "create database mpos"
