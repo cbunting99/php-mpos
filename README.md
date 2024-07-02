@@ -1,16 +1,16 @@
 Description
 ===========
 
-This version of MPOS is being edited to try and fix installation issues and to work with NOMP as the stratum found on this same Github account. https://github.com/cbunting99/node-open-mining-portal
+For use with Ubuntu 20.04 and Nomp as stratum https://github.com/cbunting99/node-open-mining-portal
 
 Please see the original page for the description and information regarding MPOS. 
 
 https://github.com/MPOS/php-mpos
 
 
-### Installation (May not be 100%) Ubuntu 20.04 + Nomp: https://github.com/cbunting99/node-open-mining-portal
+### Installation (May not be 100%) Ubuntu 20.04 + Nomp: (Link Above)
 
-The install information contains various sets of the same files, just different versions. I am trying to simplify the install and will update anything below as needed.
+The original install information contains various sets of the same files, just different versions. I am trying to simplify the install and will update anything below as needed.
 
 ```
 cd ~
