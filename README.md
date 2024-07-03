@@ -3,7 +3,7 @@ Description
 
 For use with Ubuntu 20.04 and Nomp as stratum https://github.com/cbunting99/node-open-mining-portal
 
-## Please see the original page for the description and information regarding MPOS. 
+### Please see the original page for the description and information regarding MPOS. 
 
 https://github.com/MPOS/php-mpos
 
