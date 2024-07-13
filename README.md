@@ -25,7 +25,7 @@ sudo apt-get install build-essential libboost-all-dev libcurl4-openssl-dev libdb
 
 sudo apt-get install memcached php-memcached php-mysqlnd php-curl php-json php-curl libapache2-mod-php
 
-sudo apt-get install php-mbstring php-dom
+sudo apt-get install php-mbstring php-dom php-zip zip
 
 sudo apache2ctl -k stop; sleep 2; sudo apache2ctl -k start
 
