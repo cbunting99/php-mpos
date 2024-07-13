@@ -39,7 +39,6 @@ cd MPOS
 
 php composer.phar install (May need to run sudo php composer.phar install)
 
-sudo git checkout master
 ```
 
 ### (If you get connection issues below with mysql, try this then continue.) 
