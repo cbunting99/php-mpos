@@ -78,6 +78,14 @@ sudo add-apt-repository ppa:luke-jr/bitcoincore
 sudo apt-get update && sudo apt-get install libdb4.8-dev libdb4.8++-dev -y
 ```
 
+You'll probably need these to compile or run most nodes:
+
+```
+sudo apt install libminiupnpc-dev libnatpmp-dev
+sudo apt-get install libzmq3-dev
+sudo apt install systemtap-sdt-dev
+```
+
 * If you need to compile Berkeley DB;
 
 ```
