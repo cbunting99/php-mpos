@@ -70,7 +70,7 @@ sudo cp include/config/global.inc.dist.php include/config/global.inc.php
 sudo apt-get install libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils python3
 ```
 
-## Berkley DB 4.8 (Build from source) 
+## Berkley DB 4.8 
 * For Ubuntu 20.04 and possibly newer versions:
 
 ```
